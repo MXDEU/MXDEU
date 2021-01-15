@@ -5,4 +5,4 @@
 
 
 --> Hello World
-<img align="center" src="https://github-readme-stats.vercel.app/api/github-readme-stats/?username=MXDEU&theme=dark" />
+![MXDEU's github stats](https://github-readme-stats.vercel.app/api?username=MXDEU&show_icons=true&theme=radical)
