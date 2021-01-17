@@ -7,4 +7,4 @@
    -----------
 My name is Emil and i like to write code, although i'm not good at it.  
 
-![MXDEU's github stats](https://github-readme-stats.vercel.app/api?username=MXDEU&show_icons=true&theme=merko&count_private=true)
+![MXDEU's github stats](https://github-readme-stats.vercel.app/api?username=MXDEU&show_icons=true&theme=chartreuse-dark&count_private=true)
