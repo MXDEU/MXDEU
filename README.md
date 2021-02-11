@@ -3,7 +3,7 @@
 ### Hello World! 
 My name is Emil and i like to write cool code, although i'm not good at it.  
 
-![MXDEU's github stats](https://github-readme-stats.vercel.app/api?username=MXDEU&show_icons=true&hide=contribs,issues&hide_border=true&bg_color=bg_color=0d1019&icon_color=79ff97&count_private=true)
+![MXDEU's github stats](https://github-readme-stats.vercel.app/api?username=MXDEU&show_icons=true&hide=contribs,issues&hide_border=true&bg_color= #0d1019&count_private=true)
 
 JS / NODE / C++ / Prolog / Java / Python / UE / HTML / CSS
 
