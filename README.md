@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/MXDEU/MXDEU/blob/main/bannerGit.png)
+![Design and Development](https://github.com/MXDEU/MXDEU/blob/main/bannerneu.png)
 
 ### Hello World! 
 My name is Emil and i like to write cool code, although i'm not good at it.  
