@@ -3,6 +3,6 @@
 
     // My name is Emil and i like to write cool code, although i'm not good at it.  
 
-    // JS / NODE / C++ / Prolog / Java / Python / UE / HTML / CSS
+    // JS / Node / Discord / C++ / Prolog / Java / Python / UE / HTML / CSS
 
     // I'm currently working on learning python and building discord.js bots.
