@@ -7,5 +7,5 @@ _ Im a member of slaeck-770 where we write cool code.
 
 _ I'm currently working on learning python and building discord.js bots
       
-      JS / Node / Discord / C++ / Prolog / Java / Python / UE / HTML / CSS
+      JS / Node / Discord / C++ / Prolog / Java / Python / UE4 / HTML / CSS / D3 /
 
