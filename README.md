@@ -3,11 +3,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MXDEU&repo=MXDEU&bg_color=0d1019&icon_color=79ff97&&title_color=79ff97&text_color=ffffff&hide_border=true)](https://github.com/MXDEU/MXDEU) 
 
 
-_  My name is Emil and i like to write cool code, although i'm not good at it.
++My name is Emil and i like to write cool code, although i'm not good at it.
 
-_  Im a member of slaeck-770 where we write cool code.
++Im a member of slaeck-770 where we write cool code.
 
-_  I'm currently working on learning python and building discord.js bots
++Currently working on KI realated topics
       
       JS / Node / Discord / C++ / Prolog / Java / Python / UE4 / HTML / CSS / D3 /
 
